@@ -7,6 +7,6 @@
 <title>FirstFile.jsp</title>
 </head>
 <body>
-	<h1>テスト</h1>
+	<h1>テストファイル</h1>
 </body>
 </html>
