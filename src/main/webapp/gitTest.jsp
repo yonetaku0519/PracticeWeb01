@@ -4,11 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>FirstFile.jsp</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<h1>毎日プッシュ。</h1>
-	
-	
+
 </body>
 </html>
