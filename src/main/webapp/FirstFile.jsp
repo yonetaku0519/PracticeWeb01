@@ -7,7 +7,6 @@
 <title>FirstFile.jsp</title>
 </head>
 <body>
-	<h1>毎日プッシュ</h1>
-	
+	<h1>毎日プッシュしたい</h1>
 </body>
 </html>
